@@ -2,12 +2,15 @@
 
 I'm a student of Systems Analysis and Development at FAMINAS in Muriaé-MG. I have a strong interest in technology and software development, always seeking opportunities to enhance my skills and contribute to innovative projects. I’m committed to continuous learning, focusing on developing technical and practical abilities to thrive in the IT field.
 
-## <img src="https://media3.giphy.com/media/GbxZdp9V9TojWhTFeK/giphy.gif?cid=ecf05e47ayh5zv2bmq51o92s4osxbvvl0vnckpm26030jmmx&rid=giphy.gif&ct=s" width="30px" height="30px"> Connect with me
+
+## 🤝 Connect with me
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-portugal-2a7291269/)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/portuga_fael/)
 [![image](https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:flavioaam@hotmail.com?subject=Feedback%20From%20Github&body=Hello)
-## 🛠️ My Skills
 
+
+## 👨‍💻 My Skills
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
