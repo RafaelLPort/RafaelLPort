@@ -18,8 +18,6 @@ I'm a student of Systems Analysis and Development at FAMINAS in Muriaé-MG. I ha
 ![CSS3](https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 
-![CleanCode](https://img.shields.io/badge/Clean%20Code-Evangelist-_.svg)
-
 <br />
 <br />
 
