@@ -1,4 +1,6 @@
-### Hi there, 👋I'm Rafael, and I'm a student of Systems Analysis and Development at FAMINAS in Muriaé-MG. I have a strong interest in technology and software development, always seeking opportunities to enhance my skills and contribute to innovative projects. I’m committed to continuous learning, focusing on developing technical and practical abilities to thrive in the IT field.
+#Hi there!! I'm Rafael 👋
+
+### I'm a student of Systems Analysis and Development at FAMINAS in Muriaé-MG. I have a strong interest in technology and software development, always seeking opportunities to enhance my skills and contribute to innovative projects. I’m committed to continuous learning, focusing on developing technical and practical abilities to thrive in the IT field.
 
 ## <img src="https://media3.giphy.com/media/GbxZdp9V9TojWhTFeK/giphy.gif?cid=ecf05e47ayh5zv2bmq51o92s4osxbvvl0vnckpm26030jmmx&rid=giphy.gif&ct=s" width="30px" height="30px"> Connect with me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-portugal-2a7291269/)
