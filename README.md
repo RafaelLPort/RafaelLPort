@@ -1,4 +1,4 @@
-#Hi there!! I'm Rafael 👋
+# Hi there!! I'm Rafael 👋
 
 ### I'm a student of Systems Analysis and Development at FAMINAS in Muriaé-MG. I have a strong interest in technology and software development, always seeking opportunities to enhance my skills and contribute to innovative projects. I’m committed to continuous learning, focusing on developing technical and practical abilities to thrive in the IT field.
 
