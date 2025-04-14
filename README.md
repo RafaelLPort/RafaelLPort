@@ -7,7 +7,7 @@ I'm a student of Systems Analysis and Development at FAMINAS in Muriaé-MG. I ha
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-portugal-2a7291269/)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/portuga_fael/)
-[![image](https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:flavioaam@hotmail.com?subject=Feedback%20From%20Github&body=Hello)
+[![image](https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:rafaellport@outlook.com?subject=Feedback%20From%20Github&body=Hello)
 
 
 ## 👨‍💻 My Skills
