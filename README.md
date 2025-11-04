@@ -19,6 +19,10 @@ I'm a student of Systems Analysis and Development at FAMINAS in Muriaé-MG. I ha
 ![C](https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge)
+
+
 
 <br />
 <br />
